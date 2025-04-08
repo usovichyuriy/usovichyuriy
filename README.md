@@ -1,9 +1,8 @@
 <h1 align="center"> Hi there, welcome to my profile! 🌟 </h1>
 
-JavaScript developer focused on building simple, efficient, and scalable solutions.  
-
-Passionate about creating clean, maintainable code that solves real-world problems.  
-Always open to new challenges and collaborations!
+💡 JavaScript developer focused on building simple, efficient, and scalable solutions.  
+✅ Passionate about creating clean, maintainable code that solves real-world problems.  
+🤝 Always open to new challenges and collaborations!
 
 ## 🔧 Technologies I work with:
 
