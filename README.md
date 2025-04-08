@@ -13,8 +13,8 @@
 
 ## 💻 Coding platforms:
 
-- 🌍 [Codewars](https://www.codewars.com/users/yourusername)
-- 🏅 [HackerRank](https://www.hackerrank.com/yourusername)
+- 🌍 [Codewars](https://www.codewars.com/users/usovichyuriy)
+- 🏅 [HackerRank](https://www.hackerrank.com/profile/usovichyuriy)
   
 ## 🌐 Contact:
 
